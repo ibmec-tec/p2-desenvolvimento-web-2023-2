@@ -15,8 +15,8 @@ Reproduzir o comportamento da [página de exemplo](#página-de-exemplo).
    1. `https://botafogo-atletas.mange.li/feminino`
 1. Os dados da página de detalhes devem ser obtidos do end-point `https://botafogo-atletas.mange.li/{atleta-id}`
 1. A página de detalhes deve ser construída com a informação do *id* contida na URL
-1. Não deve ser possível acessar a página de detalhes sem autorização
-1. Erros na obtenção dos dados para a construção da página de detalhes devem gerar uma mensagem na tela
+1. Não deve ser possível acessar a página de detalhes sem autorização 🛑
+1. Erros na obtenção dos dados para a construção da página de detalhes devem gerar uma mensagem na tela 
 1. O estilo das páginas e cartões é de livre escolha, use a criatividade e garanta que não é uma cópia 😜
 1. O trabalho deve ser publicado no githubPages com acesso público
    - não é obrigatório usar URL personalizada, mas se quiser pode 😎

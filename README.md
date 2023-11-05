@@ -19,15 +19,17 @@ Reproduzir o comportamento da [página de exemplo](#página-de-exemplo).
 1. O trabalho deve ser publicado no githubPages com acesso público
    - não é obrigatório usar URL personalizada, mas se quiser pode 😎
 1. Responsividade:
-   - Página de Login:
-      - vertical até 768px   
-   - Página Detalhes:
-      - vertical até 768px
-   - Página Principal:
-      - uma colunas até 768px
-      - duas colunas até 1024px
-      - quatro colunas depois de 1024px
-      - largua máxima da lista de 1200px
-
+   - **Página de Login**:
+      - vertical até 768px;   
+   - **Página Detalhes**:
+      - vertical até 768px;
+   - Container de atletas da **Página Principal**:
+      - uma colunas até 768px;
+      - duas colunas até 1024px;
+      - quatro colunas depois de 1024px;
+      - largura máxima da lista de 1200px;
+   - Seleção de elenco da **Página Principal**:
+      - select até 768px;
+      - botões para _viewports_ maiores que 768px;
 ## Página de exemplo:
   Sua solução deve estar **publicada no githubPages** e emular o compartamento da página: https://p2-2023-2-desweb.mange.li/

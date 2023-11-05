@@ -19,6 +19,8 @@ Reproduzir o comportamento da [página de exemplo](#página-de-exemplo).
 1. O trabalho deve ser publicado no githubPages com acesso público
    - não é obrigatório usar URL personalizada, mas se quiser pode 😎
 1. Responsividade:
+   - Página de Login:
+      - vertical até 768px   
    - Página Detalhes:
       - vertical até 768px
    - Página Principal:
